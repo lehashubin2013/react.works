@@ -1,0 +1,78 @@
+@media (max-width: 1250px){
+	.card{
+		justify-content: space-around;
+	}
+	.card__inner{
+		margin-bottom: 20px;
+	}
+	.wedo__item-img{
+		width: 100%;
+	}
+	.reviews__text{
+		width: 100%;
+	}
+	.reviews__photo{
+		width: 20%;
+		height: 20%;
+	}
+	.blog{
+		justify-content: center;
+	}
+	.blog__item{
+		width: 48%;
+	}
+	.footer__col--first{
+		width:49%;
+	}
+	.footer__col--second{
+		width:49%;
+	}
+	.footer__col--third{
+		width:100%;
+	}
+
+}
+@media (max-width: 860px){
+	.services__item{
+		width: 50%;
+	}
+	.slider__item {
+		width: 45%;
+		margin-right: 15px;
+	}
+	.intro__title {
+		font-size: 120px;
+	}
+	.intro__suptitle {
+		font-size: 52px;
+	}
+	.nav{
+		width: 60%;
+	}
+}
+@media (max-width: 750px){
+	.nav{
+		font-size: 12px;
+	}
+	.logos{
+		justify-content: center;
+	}
+	.clients__item{
+		width: 100%;
+	}
+	.footer__col--first{
+		width:100%;
+	}
+	.footer__col--second{
+		width:100%;
+	}
+	.stat__count{
+		font-size: 32px;
+	}
+	.intro__title {
+		font-size: 100px;
+	}
+	.intro__suptitle {
+		font-size: 42px;
+	}
+}
