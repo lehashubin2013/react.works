@@ -1,0 +1,320 @@
+ @media screen and (max-width: 600px) {
+ 
+}
+
+@media(max-width:1200px){
+	.nav-links__item{
+		margin-right: 2px;
+	}
+	.nav-links__item:after{
+		margin-left: 10px;
+	}
+	.blocks__title{
+		font-size: 26px;
+	}
+	.descr-block__content{
+		padding:139px 0 0 0;
+	}
+	.img-iphone{
+		left: 15px;
+	}
+	.block-about{
+		justify-content: center;
+	}
+	.blocks-about{
+		margin-right: 20px;
+	}
+
+/*cont*/
+
+	.contact-details{
+		width: 100%;
+	}
+	.contact-details-blocks{
+		flex-direction: column;
+	}
+
+/*partf*/
+
+	.our_work-blocks{
+		font-size: 11px;
+	}
+	.our_work-block_posters{
+		align-items: center;
+	}
+
+	.blocks_posters{
+		margin-bottom: 50px;
+		width: 380px;
+		margin-right: 15px;
+	}
+
+	.our_work-block_posters{
+		justify-content: center;
+	}
+}
+
+@media(max-width: 1110px){
+	.nav__header{
+		margin-bottom: 100px;
+	}
+	.header-main__title{
+		margin-bottom: 40px;
+	}
+	.header-main{
+		flex-direction: column;
+	}
+	.block__content-title{
+		font-size: 25px;
+	}
+	.services-blocks__icon{
+		display: none;
+	}
+	.services-blocks__title{
+		width: 34%;
+	}
+	.blocks__title-turquoise::before{
+		display: none;
+	}
+	.blocks__title-red::before{
+		display: none;
+	}
+	.blocks__title-green::before{
+		display: none;
+	}
+	.blocks__title-purple::after{
+		display: none;
+	}
+	.blocks__title-yellow::after{
+		display: none;
+	}
+	.blocks__title-blue::after{
+		display: none;
+	}
+	.img-mac{
+		width: 100%;
+		margin:0 auto;
+	}
+	.img-iphone{
+		width: 20%;
+		left: 35px;
+	}
+	.mac-images{
+		width: 90%;
+	}
+
+/*partf*/
+	.container-portf{
+		padding: 32px 15px 32px 15px;
+	}
+}
+
+@media(max-width: 800px){
+	.nav-links{
+		width: 100%;
+	}
+	.nav__logo{
+		font-size: 20px;
+	}
+	.text__bold{
+		font-size: 20px;
+	}
+	.container-footer{
+
+	}
+	.nav-footer{
+		width: 55%;
+	}
+	.nav-links__item{
+		font-size: 12px;
+		margin-right: 0px;
+   }
+   .nav-links__item:after{
+   	margin-left: 10px;
+   }
+
+
+
+   .blocks_posters{
+   	margin-right: 0px;
+   }
+
+
+
+  	.our_work-block{
+		flex-wrap: wrap;
+   }
+   .our_work-blocks__gray{
+   	width: 33%;
+   }
+
+   .our_work-blocks__bl{
+   	width: 34%;
+   }
+
+   .our_work-blocks__red{
+   	width: 33%;
+   }
+
+   .our_work-blocks__green{
+   	width: 25%;
+   }
+
+   .our_work-blocks__purple{
+   	width: 25%;
+   }
+
+   .our_work-blocks__yellow{
+   	width: 25%;
+   }
+
+   .our_work-blocks__blue{
+   	width: 25%;
+   }
+}
+
+@media(max-width: 700px){
+	.section-header{
+		height: 150vh;
+	}
+	.container-header{
+		padding-top: 60px;
+	}
+	.nav-links__item{
+		font-size: 12px;
+		margin-right: 0px;
+   }
+   .nav-links__item:after{
+   	margin-left: 10px;
+   }
+   .descr-block__content{
+		padding:50px 0 0 0;
+   }
+	.nav-footer{
+		width: 80%;
+	}
+	.container-footer{
+		flex-direction: column;
+	}
+	.subscribe-form{
+		width: 100%;
+	}
+	.subscribe-text{
+		padding: 15px 10px; 
+	}
+	.subscribe-icons{
+		width: 80%;
+	}
+	/*menu*/
+	.menu {
+	   display: none; /* пункты меню скрыты */
+	   background: transparent;
+	   position: absolute;
+	   right: 5%;
+	   top: auto;
+	}
+	.menuBurger {
+	   display: block; /* иконка гамбургер видна */
+	}
+	.nav-links__item{
+		width: 100px;
+		font-size: 15px;
+		margin: 0px;
+	}
+	.nav-links{
+		width: 100px;
+	}
+	.nav-links__item:after{
+	 	left:80px;
+	}
+	.nav__header{
+		align-items: center;
+	}
+}
+
+
+@media screen and (max-width: 600px){
+
+	.section-header{
+		font-size: 9px;
+		height: 130vh;
+	}
+	.nav__logo{
+		font-size: 20px;
+	}
+	.header-main__title{
+		width: 90%;
+		margin: 0 0 30px 15px;
+		font-size: 35px;
+	}
+	.header-main__descr{
+		margin-bottom: 15px;
+		margin-right: 0;
+	}
+	.text__black{
+		font-size: 35px;
+	}
+	.blocks-about{
+		width: 250px;
+		height: 250px;
+		margin-right: 0px;
+	}
+	.descr-block__img{
+		display: none;
+	}
+   .descr-block__content{
+		padding:50px 0 0 0;
+		width: 100%;
+   }
+   .mac-title{
+   	font-size: 25px;
+   }
+   .blocks__title{
+		font-size: 10px;
+	}
+	.container-about{
+		padding: 30px 15px 30px 15px;
+	}
+	.container-testimonials{
+		padding: 40px 10px 40px 10px;
+	}
+	
+	.nav-footer{
+		width: 80%;
+	}
+	.container-footer{
+		flex-direction: column;
+	}
+	.services-blocks__title{
+		min-height: 220px;
+	}
+
+
+	.popup-close{
+		right: -5px;
+	}
+	.our_work-blocks{
+		font-size: 8px;
+	}
+	.blocks_posters{
+		width: 280px;
+	}
+
+
+	.container-contact{
+		padding: 60px 25px 60px 25px;
+	}
+	.text-placeholder{
+		padding: 25px 25px;
+		font-size: 10px;
+	}
+	.block-check{
+		width: 50%;
+	}
+	.block-details__link{
+		width: 100%;
+	}
+	.button-descr{
+		width: 100%;
+	}
+}
