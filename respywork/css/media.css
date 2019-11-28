@@ -234,7 +234,12 @@
 
 
 @media screen and (max-width: 600px){
-
+	.nav__header{
+		margin-bottom: 50px;
+	}
+	.mac-title{
+		width: 150px;
+	}
 	.section-header{
 		font-size: 9px;
 		height: 130vh;
@@ -257,7 +262,7 @@
 	.blocks-about{
 		width: 250px;
 		height: 250px;
-		margin-right: 0px;
+		margin-right: 10px;
 	}
 	.descr-block__img{
 		display: none;
