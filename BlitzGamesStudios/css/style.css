@@ -338,7 +338,7 @@ img{
 /*homefront*/
 
 .section-homefront{
-	background:#fafafa url(../img/highteded/Background.png) top no-repeat;
+	background:#e6e6e6 url(../img/highteded/Background.png) top no-repeat;
 	-webkit-background-size: auto;
 	background-size: auto;
 }
