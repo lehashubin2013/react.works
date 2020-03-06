@@ -1,0 +1,19 @@
+.section-footer {
+  background: #4c4c4c;
+  box-shadow: 0 1px 28px rgba(0, 0, 0, 0.9); }
+
+.container-footer {
+  padding: 6px 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center; }
+  .container-footer__designer {
+    font-size: 17px; }
+  .container-footer a {
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+    font-size: 29px;
+    text-transform: uppercase; }
+    .container-footer a img {
+      margin-right: 10px; }
