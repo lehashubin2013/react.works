@@ -1,0 +1,19 @@
+.notification{
+    font-size: 12px;
+    font-weight: 400;
+    font-family: "Roboto", sans-serif;
+  
+    color: #65676b;
+  }
+  .notification button{
+    font-size: 12px;
+    font-weight: 400;
+    font-family: "Roboto", sans-serif;
+  
+    color: #65676b;
+    background: transparent;
+    border: 0px;
+    outline: 1px #65676b;
+    cursor: pointer;
+  }
+  

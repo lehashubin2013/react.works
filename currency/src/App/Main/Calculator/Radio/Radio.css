@@ -1,0 +1,10 @@
+.label-calculator{
+  font-weight: 400;
+}
+input{
+  margin-right: 7px;
+}
+.radio-block{
+  display: flex;
+  align-items: center;
+}
