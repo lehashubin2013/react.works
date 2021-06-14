@@ -1,7 +1,7 @@
 {
   "name": "main-folder",
   "version": "0.1.0",
-  "homepage": "https://lehashubin2013.github.io/currency",
+  "homepage": "https://lehashubin2013.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
