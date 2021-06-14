@@ -1,0 +1,29 @@
+.block-course{
+    display: inline-block;
+    min-width: 23%;
+    height: 135px;
+    padding: 12px 12px 22px 12px;
+    border: 2px solid #cdcdc7;
+
+  
+    background: #eeedef;
+    color: #757071;
+  
+    font-weight: 600;
+    font-size: 15px;
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+.block-course-title{
+    display: block;
+    width: 100%;
+}
+.block-course-nums{
+    font-weight: 400;
+}
+p{
+    width: 100%;
+}

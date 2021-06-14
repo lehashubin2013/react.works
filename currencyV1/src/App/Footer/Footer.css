@@ -1,0 +1,35 @@
+.section-footer{
+    background: #171617;
+    width: 100%;
+  }
+  .container-footer{
+    width: 100%;
+    max-width: 1000px;
+    height: auto;
+  
+    margin: 0px auto;
+    padding: 20px;
+  
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  .footer-block{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .footer-block a{
+    margin-bottom: 7px;
+    font-weight: 300;
+    font-size: 13px;
+  }
+  .footer-block span{
+    margin-bottom: 7px;
+    font-weight: 300;
+    font-size: 13px;
+  }
+  .footer-block-currency{
+    font-weight: 500;
+    font-size: 20px; 
+  }

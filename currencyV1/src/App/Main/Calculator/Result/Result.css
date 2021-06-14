@@ -1,0 +1,8 @@
+.result-calculator{
+  font-weight: 400;
+}
+.result-calculator span{
+  display: inline-block;
+  margin-bottom: 10px;
+  font-weight: 600;
+}

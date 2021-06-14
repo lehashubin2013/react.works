@@ -1,0 +1,43 @@
+
+h2{
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+li{
+    margin: 0px;
+    margin-bottom: 5px;
+    padding: 0px;
+    font-size: 20px;
+}
+ul{
+    margin: 0px;
+    padding: 20px;
+}
+div{
+    font-weight: 500;
+}
+.section{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+  } 
+.container{
+    width: 100%;
+    max-width: 1000px;
+    margin: 0px auto;
+    padding: 20px;
+    height: 100%;
+
+    font-size: 22px;
+    font-weight: 500;
+    font-family: "Roboto", sans-serif;
+  
+    color: #65676b;
+}   
+.container-main-agreement{
+    background: #fff;
+}
+.section-main-agreement{
+    height: 100%;
+  } 
+  

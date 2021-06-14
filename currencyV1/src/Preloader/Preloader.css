@@ -1,0 +1,26 @@
+.preloader{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+}
+.animate-elem{
+    width: 100px;
+    height: 100px;
+    background: transparent;
+    border: 2px solid #476f20;
+    border-top: 2px solid #fff;
+    border-radius: 100%;
+    /* position: relative; */
+    margin: 0px;
+    animation: animation-for-preloader 2s 0s ease infinite;
+}
+@keyframes animation-for-preloader{
+    from {transform: rotate(0deg)}
+    to {transform: rotate(360deg)}
+}
